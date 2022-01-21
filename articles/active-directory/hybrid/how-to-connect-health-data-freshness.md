@@ -60,6 +60,7 @@ The steps required to diagnose the issue is given below. The first is a set of b
 * Use [test connectivity tool](how-to-connect-health-agent-install.md#test-connectivity-to-azure-ad-connect-health-service) to discover connectivity issues.
 * If you have an HTTP Proxy, follow these [configuration steps](how-to-connect-health-agent-install.md#configure-azure-ad-connect-health-agents-to-use-http-proxy). 
 
+Additional information can be found here: https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/aad-connect-health-data-freshness
 
 ## Next steps
 If any of the above steps identified an issue, fix it and wait for the alert to resolve. The alert background process runs every 2 hours, so it will take up to 2 hours to resolve the alert. 
